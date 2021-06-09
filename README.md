@@ -34,7 +34,6 @@ boyagesmile/prometheus:v1 /bin/bash
 In host:
 ```
 xhost+
-
 ```
 In docker:
 ```
