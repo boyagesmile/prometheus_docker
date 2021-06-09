@@ -28,8 +28,15 @@ boyagesmile/prometheus:v1 /bin/bash
 * opencv 3.3.1
 * torch 1.4.0
 * torchvision 0.5.0
+* NVIDIA-Linux-x86_64-460.32.03
 
 ## Run Example
+In host:
+```
+xhost+
+
+```
+In docker:
 ```
 cd ~/Prometheus
 conda activate py27
