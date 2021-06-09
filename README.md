@@ -1,8 +1,5 @@
 # prometheus_docker
-Docker for amov-lab/Prometheus
-# Prometheus Docker
-
-I establish a [Docker](https://registry.hub.docker.com/repository/docker/boyagesmile/prometheus) for [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) 
+[Docker](https://registry.hub.docker.com/repository/docker/boyagesmile/prometheus) for [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) 
 
 ## Prerequisites
 - Docker
